@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1.8rem;
+  margin: 0;
+  padding: 1rem 0 0 0;
+  color: #c1c1c1;
+}
+
+.star-container {
+  font-size: 5rem;
+  color: #e4e4e4;
+  background-color: #fefefe;
+  box-shadow: 1px 3px 8px #222;
+  border-radius: 20px;
+  padding: 20px;
+  height: 14rem;
+}
+
+.star-container .hovered-stars {
+  font-size: 5rem;
+  color: #ff9c1a;
+  cursor: pointer;
+}
+
+.card-rating-message {
+  color: #b1b1b1;
+  font-size: 1.6rem;
+  margin: 0;
+}
